@@ -1,5 +1,5 @@
 {
-    "mongoURI":"mongodb+srv://bred123:bred123@cluster0.uqoch.mongodb.net/myFirstDatabase?retryWrites=true",
+    "mongoURI":"mongodb+srv://bred123:bred123@cluster0.uqoch.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     "jwtSecret":"secretToken",
     "githubClientId":"7c4bd0ed1771c3111444",
     "githubSecret":"d7c129e24438cc143900448d42df192e8f826627"
